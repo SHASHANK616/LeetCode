@@ -18,8 +18,8 @@ cd Arrays
 **Problems Solved**
 Here’s a quick overview of the problems I’ve solved so far:
 
-Total Problems Solved: 28
-Easy: 20
+Total Problems Solved: 29
+Easy: 21
 Medium: 8
 Contributing
 Feel free to submit pull requests with improvements or solutions to problems not yet covered in this repository. Make sure to follow the existing file structure and naming conventions.
