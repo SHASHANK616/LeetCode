@@ -9,7 +9,7 @@ File Naming Convention: Each file is named as ProblemName.LanguageExtension. For
 
 **How to Use**
 Clone the Repository:
-git clone https://github.com/SHASHANK616/leetcode-solutions.git
+git clone https://github.com/SHASHANK616/LeetCode.git
 cd leetcode-solutions
 
 Navigate to the desired folder:
@@ -18,9 +18,11 @@ cd Arrays
 **Problems Solved**
 Here’s a quick overview of the problems I’ve solved so far:
 
-Total Problems Solved: 30
-Easy: 22
+Total Problems Solved: 32
+Easy: 24
 Medium: 8
+
+I have solved more questions then shown above (not have updated here yet)*
 Contributing
 Feel free to submit pull requests with improvements or solutions to problems not yet covered in this repository. Make sure to follow the existing file structure and naming conventions.
 
