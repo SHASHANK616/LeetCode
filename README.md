@@ -18,7 +18,7 @@ cd Arrays
 **Problems Solved**
 Here’s a quick overview of the problems I’ve solved so far:
 
-Total Problems Solved: 32
+Total Problems Solved: 33
 Easy: 24
 Medium: 8
 
