@@ -1,5 +1,5 @@
 # LeetCode
-**LeetCode Solutions**
+**LeetCode Solutions** 
 Welcome to my LeetCode Solutions repository! This repository contains my personal solutions to problems from LeetCode, organized by category and difficulty.
 
 Repository Structure
