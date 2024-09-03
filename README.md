@@ -18,8 +18,8 @@ cd Arrays
 **Problems Solved**
 Here’s a quick overview of the problems I’ve solved so far:
 
-Total Problems Solved: 36
-Easy: 27
+Total Problems Solved: 38
+Easy: 29
 Medium: 9
 
 I have solved more questions then shown above (not have updated here yet)*
