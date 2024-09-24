@@ -1,6 +1,6 @@
 # LeetCode
 **LeetCode Solutions** 
-Welcome to my LeetCode Solutions repository! This repository contains my personal solutions to problems from LeetCode, organized by category and difficulty.
+Welcome to my LeetCode Solutions repository! This repository contains my personal solutions to problems from LeetCode, organized by category and difficulties.
 
 Repository Structure
 Algorithms: Solutions are categorized into different folders based on the algorithm type (e.g., Arrays, Dynamic Programming, Graph, etc.).
