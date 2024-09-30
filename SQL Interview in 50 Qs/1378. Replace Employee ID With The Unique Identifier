@@ -1,0 +1,16 @@
+Table: Employees
+
++---------------+---------+
+| Column Name   | Type    |
++---------------+---------+
+| id            | int     |
+| name          | varchar |
++---------------+---------+
+id is the primary key (column with unique values) for this table.
+Each row of this table contains the id and the name of an employee in a company
+
+SOLUTION:
+
+SELECT EmployeeUNI.unique_id, Employees.name 
+FROM Employees
+NATURAL LEFT JOIN EmployeeUNI;
